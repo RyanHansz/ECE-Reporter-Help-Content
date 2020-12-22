@@ -6,7 +6,8 @@ layout: home
 nav_order: 1
 ---
 
-# Getting started with ECE Reporter
+# Home
+
 
 ![Screenshot of ECE Reporter](/assets/images/ece-reporter.png)
 

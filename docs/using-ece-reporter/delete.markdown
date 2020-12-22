@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Delete a Child Record
-permalink: /delete/
+permalink: /delete-record/
 parent: Using ECE Reporter
 ---
 

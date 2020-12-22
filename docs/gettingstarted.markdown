@@ -2,12 +2,12 @@
 layout: page
 title: GUIDE: How to prepare your data for ECE Reporter
 permalink: /prepare-your-data/
-nav_order: 2
+nav_order: 1
 ---
 
 
 
-# How to prepare your data for ECE Reporter
+# Guide: How to prepare your data for ECE Reporter
 {: .no_toc }
 
 ## Table of contents

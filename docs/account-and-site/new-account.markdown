@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Requesting new accounts
+title: Request a new account
 permalink: /new-account/
 parent: Account and Site Management
 ---
