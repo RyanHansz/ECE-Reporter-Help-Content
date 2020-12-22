@@ -2,6 +2,7 @@
 layout: page
 title: GUIDE: How to prepare your data for ECE Reporter
 permalink: /prepare-your-data/
+nav_order: 2
 ---
 
 

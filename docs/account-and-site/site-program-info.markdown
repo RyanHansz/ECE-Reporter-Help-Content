@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Requesting Changes to Site and Program info
+title: Site, Program and Funding changes
 permalink: /site-and-program/
+parent: Account and Site Management
 ---
 
 # Requesting Changes to Site and Program info
