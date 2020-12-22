@@ -2,6 +2,7 @@
 layout: page
 title: Delete a Child Record
 permalink: /delete/
+parent: Using ECE Reporter
 ---
 
 # How to delete a child’s record
