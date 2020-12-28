@@ -2,7 +2,7 @@
 layout: page
 title: Tips for formatting data
 permalink: /format-data/
-nav_order: 5
+nav_order: 9
 
 ---
 

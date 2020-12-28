@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Check your data for accuracy
+title: Guide – Check your data for accuracy
 permalink: /verify/
-nav_order: 7
+nav_order: 4
 
 ---
 

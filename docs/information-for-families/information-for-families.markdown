@@ -2,7 +2,7 @@
 layout: page
 title: Information for families
 permalink: /family-info/
-nav_order: 4
+nav_order: 8
 
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Get more support
 permalink: /get-support/
-nav_order: 9
+nav_order: 10
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Guide - July to December data collection
+title: Guide – July to December data collection
 permalink: /prepare-your-data/
-nav_order: 2
+nav_order: 3
 
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Using your roster
 permalink: /roster/
 has_children: true
-nav_order: 3
+nav_order: 6
 
 ---
 

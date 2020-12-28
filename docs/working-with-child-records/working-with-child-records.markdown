@@ -3,11 +3,11 @@ layout: page
 title: Working with child records
 permalink: /child-records/
 has_children: true
-nav_order: 3
+nav_order: 5
 
 ---
 
-# Working with a child's record
+# Working with child records
 
 Use this feature when you need to edit or make updates to a child’s record.
 

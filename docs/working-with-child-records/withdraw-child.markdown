@@ -14,10 +14,11 @@ Want to change an enrollment's site, age group and/or funding instead? [See how 
 
 
 ## Open the record and find the "withdraw" button
-![Finding withdraw](../assets/images/finding-withdraw.gif "Finding withdraw")
+![Finding withdraw](../assets/images/withdraw-button.png "Finding withdraw")
 
 ## Add required fields, and confirm the withdrawal
-![Withdrawing](../assets/images/withdraw-form.png "Withdrawing")
+
+<img src="../assets/images/withdraw-form.png" alt="Withdrawing" width="500px"/>
 
 
 ## Find the record in your withdrawn roster view
