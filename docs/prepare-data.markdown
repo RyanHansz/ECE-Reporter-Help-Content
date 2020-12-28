@@ -28,7 +28,7 @@ Everything you need to meet OEC's July to December data collection request.
 ## Review the data collection basics
 
 ### Data collection period
-The data collection period begins 07/01/2020 and continues through 12/31/2020.
+The data collection period begins July 1, 2020 and continues through December 31, 2020.
 
 ### Data submission deadline
 You must submit your data to OEC by 03/05/2021.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Add a Child Record
+title: Add a child record
 permalink: /add-record/
 parent: Working with child records
 nav_order: 1

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Delete a Child Record
+title: Delete a child record
 permalink: /delete-record/
 parent: Working with child records
 nav_order: 1

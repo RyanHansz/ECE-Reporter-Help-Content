@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Withdraw a Child Record
+title: Withdraw a child record
 permalink: /withdraw-record/
 parent: Working with child records
 nav_order: 1

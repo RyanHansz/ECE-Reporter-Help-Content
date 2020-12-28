@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Get Support
+title: Get more support
 permalink: /get-support/
-nav_order: 5
+nav_order: 9
 
 ---
 

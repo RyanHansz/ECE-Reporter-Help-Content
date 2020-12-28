@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Format data for file upload
+title: Tips for formatting data
 permalink: /format-data/
 nav_order: 5
 
