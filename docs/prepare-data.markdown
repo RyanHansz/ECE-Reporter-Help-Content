@@ -122,21 +122,29 @@ To add these changes:
 
 See the examples below for a child enrollment that has had changes between July 1, 2020, to December 31, 2020.
 
+--- 
 
 #### Example record: Change to site
 
+
 <iframe width="700" height="300" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=F40EB44165087116%21348&authkey=%21ALWXGbSgozgNAqQ&em=2&wdAllowInteractivity=False&AllowTyping=True&ActiveCell='Sheet1'!A1&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
+--- 
 
 #### Example record: Changed to funding source and/or space type
 
+
 <iframe width="700" height="300" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=F40EB44165087116%21352&authkey=%21ALCDrugcBA6yxeM&em=2&wdAllowInteractivity=False&ActiveCell='Sheet1'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+
+--- 
 
 
 #### Example record: Changed age group
 
+
 <iframe width="700" height="300" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=F40EB44165087116%21350&authkey=%21AHIhXLFtm_U1Rds&em=2&wdAllowInteractivity=False&ActiveCell='Sheet1'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
+--- 
 
 ### Add enrollments that have been withdrawn
 
@@ -144,13 +152,18 @@ You’ll need to upload any enrollment that has withdrawn between July 1, 2020, 
 
 The example below shows what a withdrawn record looks like in OEC’s template. 
 
+--- 
 
 #### Example record: Withdrawn
 
+
 <iframe width="700" height="300" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=F40EB44165087116%21342&authkey=%21AKjkHg7CjKupJ-k&em=2&wdAllowInteractivity=False&ActiveCell='Sheet1'!A1&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
+--- 
 
 ## Upload your data to ECE Reporter
+
+![File upload](../assets/images/file-upload.gif "uploading a file to ECE Reporter")
 
 Once all of your data is entered into the ECE Reporter data template format, you’re ready to upload!
 
@@ -158,12 +171,14 @@ To find the file upload page in ECE Reporter:
 
 1. Go to [https://ece-reporter.ctoec.org/](https://ece-reporter.ctoec.org/)
 2. Sign in with your account information
-3. Find and click the batch upload link in the upper right corner
+3. Find and click the file upload link in the navigation bars
+4. Choose your completed data template to upload
+5. Verify which sites you're uploading data for
+6. Your file will be uploaded and checked for any errors
+7. You will see your roster with all of your records uploaded
 
+---
 
 ## Verify your data
-
-
-## Keep your data up-to-date
-
+See the [verify your data](/verify) page for ways to make sure your data was entered correctly in ECE Reporter.
 

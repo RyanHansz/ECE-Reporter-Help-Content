@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Working with your roster
+title: Using your roster
 permalink: /roster/
 has_children: true
 nav_order: 3
 
 ---
 
-# Working with your roster
+# Using your roster
 ![Roster](../assets/images/roster.png "ECE Reporter roster")
 
 

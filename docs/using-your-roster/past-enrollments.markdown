@@ -2,7 +2,7 @@
 layout: page
 title: View past enrollments
 permalink: /past-enrollments/
-parent: Working with your roster
+parent: Using your roster
 nav_order: 1
 
 
