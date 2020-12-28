@@ -4,6 +4,8 @@ title: Edit a Child Record
 permalink: /edit-record/
 parent: Using ECE Reporter
 has_children: true
+nav_order: 1
+
 ---
 
 # Edit a child's record

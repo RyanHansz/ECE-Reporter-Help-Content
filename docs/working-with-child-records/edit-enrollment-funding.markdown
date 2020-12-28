@@ -2,8 +2,9 @@
 layout: page
 title: Edit enrollment and funding
 permalink: /edit-enrollment-funding/
-parent: Edit a Child Record
-grand_parent: Using ECE Reporter
+parent: Working with child records
+nav_order: 1
+
 ---
 
 # Edit a child's enrollment and funding information

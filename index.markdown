@@ -1,24 +1,61 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 nav_order: 1
+permalink: /
+title: Home
+
 ---
 
-# Home
+![ECE Reporter screenshot](../assets/images/ece-reporter.png "ECE Reporter screenshot")
+
+# ECE Reporter help
+{: .fs-9 }
+
+Find the support you need in the help topics below.
+{: .fs-6 .fw-300 }
+
+---
 
 
-![Screenshot of ECE Reporter](/assets/images/ece-reporter.png)
 
-## Purpose
-Publicly-funded early care and education programs use ECE Reporter to share data with the Connecticut Office of Early Childhood (OEC).
 
-The Office of Early Childhood uses this data to pay programs and help families access quality care.
+## Help topics
+
+---
+
+### Account and site management
+How to request new accounts, modify existing accounts, or request changes to your site and organization information.
+
+[Account and site management](/accounts/)
+
+---
+
+### Data requirements
+Find the Office of Early Childhood's requirements for ECE Reporter. Includes which enrollments to enter, where to find data requirements and data collection timelines.
+
+[Data requirements](/data-requirements/)
+
+---
+
+### Working with child records
+See how to add, edit, delete and withdraw child records. Includes how to add income determinations, as well as how change enrollment and funding information.
+
+[Working with child records](/child-records/)
+
+---
+
+### Using your roster
+See how to find child records, see withdrawn enrollments and view rosters for previous months. 
+
+[Using your roster](/roster/)
+
+---
+
 
 
 ## Log in to ECE Reporter
-[Go to ECE Reporter](https://ece-reporter.ctoec.org/){: .btn .btn-purple }
+[Go to ECE Reporter](https://ece-reporter.ctoec.org/)
 
 
-## Get more support
+## Need more support?
+[Get in touch](https://ece-reporter.ctoec.org/)
