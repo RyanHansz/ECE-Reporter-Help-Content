@@ -11,6 +11,10 @@ nav_order: 3
 
 Use this feature when you need to edit or make updates to a child’s record.
 
+![Child record](../assets/images/childrecord.png "ECE Reporter child record")
+
+---
+
 
 ## Navigate to your roster
 

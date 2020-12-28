@@ -8,3 +8,7 @@ nav_order: 3
 ---
 
 # Working with your roster
+![Roster](../assets/images/roster.png "ECE Reporter roster")
+
+
+---

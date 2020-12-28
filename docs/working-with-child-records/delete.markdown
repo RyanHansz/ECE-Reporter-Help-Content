@@ -2,8 +2,7 @@
 layout: page
 title: Delete a Child Record
 permalink: /delete-record/
-parent: Edit a Child Record
-grand_parent: Using ECE Reporter
+parent: Working with child records
 nav_order: 1
 
 ---

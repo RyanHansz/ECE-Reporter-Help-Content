@@ -2,7 +2,7 @@
 layout: page
 title: Add a Child Record
 permalink: /add-record/
-parent: Using ECE Reporter
+parent: Working with child records
 nav_order: 1
 
 ---

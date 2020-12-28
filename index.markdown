@@ -21,6 +21,14 @@ Find the support you need in the help topics below.
 
 ## Help topics
 
+
+---
+
+### December to July data collection guide
+A step by step guide to prepare for OEC's December to July data collection request.
+
+[Guide - Prepare your data](/prepare-your-data/)
+
 ---
 
 ### Account and site management
@@ -51,11 +59,15 @@ See how to find child records, see withdrawn enrollments and view rosters for pr
 
 ---
 
+## Need more support?
+Contact the ECE Reporter team through this form. 
 
+[Get in touch](https://ece-reporter.ctoec.org/)
+
+---
 
 ## Log in to ECE Reporter
 [Go to ECE Reporter](https://ece-reporter.ctoec.org/)
 
+---
 
-## Need more support?
-[Get in touch](https://ece-reporter.ctoec.org/)
