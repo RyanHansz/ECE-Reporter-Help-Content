@@ -21,7 +21,7 @@ nav_order: 2
 ## Initial data collection period
 The data collection period begins July 1, 2020 and continues through December 31, 2020.
 
-## Initial Data submission deadline
+## Initial data submission deadline
 You must submit your data to OEC by 03/05/2021.
 
 ## Enrollments to include
