@@ -11,13 +11,7 @@ title: Home
 # ECE Reporter help
 {: .fs-9 }
 
-Find the support you need in the help topics below.
-{: .fs-6 .fw-300 }
-
 ---
-
-
-
 
 ## Help topics
 

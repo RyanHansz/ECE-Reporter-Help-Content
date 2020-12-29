@@ -33,9 +33,8 @@ Children receiving funding through the following programs:
 - State Head Start
 - Smart Start
 
-## Ongoing updates
+## Keep data up-to-date
 After entering your July to December data, OEC requires that ECE Reporter be kept up-to-date. Enter your latest enrollment data at least monthly in ECE Reporter.  
-
 
 --- 
 
@@ -46,6 +45,3 @@ You can find the latest definitions, rationale and accepted formats for every fi
 [View the data requirements](https://ece-reporter.ctoec.org/data-requirements)
 
 
---- 
-
-## Review the data requirements
