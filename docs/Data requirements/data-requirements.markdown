@@ -2,7 +2,7 @@
 layout: page
 title: ECE Reporter data requirements
 permalink: /data-requirements/
-nav_order: 2
+nav_order: 4
 
 ---
 

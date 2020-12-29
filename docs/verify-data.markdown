@@ -2,7 +2,7 @@
 layout: page
 title: Guide – Check your data for accuracy
 permalink: /verify/
-nav_order: 4
+nav_order: 3
 
 ---
 
