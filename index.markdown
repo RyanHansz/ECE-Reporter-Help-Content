@@ -51,7 +51,8 @@ Accurate data about enrollment in our state-funded programs is essential. It’s
 
 ---
 
-# Watch a video walkthrough of ECE Reporter
+## Watch a video walkthrough of ECE Reporter
+View a recording of the "Welcome to ECE Reporter" session:
 <iframe src="https://drive.google.com/file/d/1S1TJ5faVOuaEDGoQY2BN1rQt9ACe491O/preview" width="640" height="480"></iframe>
 
 
